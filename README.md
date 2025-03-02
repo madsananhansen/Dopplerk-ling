@@ -18,6 +18,8 @@
   - $E_{kin} = \dfrac{3}{2} \cdot k_B \cdot T$
 - Dopplereffekten
 - Zeeman effekten
+- Maxwell-Boltzmann fordeling
+- Den naturlige linjebredde
 
 ## Ting til min diskussion:
 
