@@ -15,7 +15,7 @@
   - $\Delta p = p_{foton}$
 - Doppler limit (bevægelsesmængden af fotonen er begrænsningen)
 - Sammenhæng mellem temperatur og hastighed
-  - $E_{kin} = \dfrac{3}{2} \times k_B \times T$
+  - $E_{kin} = \dfrac{3}{2} \cdot k_B \cdot T$
 - Dopplereffekten
 - Zeeman effekten
 
