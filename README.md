@@ -9,19 +9,19 @@
 
 ## Teori til SRP:
 
-- Absorption og emmission af fotoner
+- Absorption og emmission af fotoner samt den naturlige linjebredde
   - Hvad sker der når atomer emitterer fotoner (randomwalk)
 - Bevægelsesmængde af fotoner (og bevarelsen af den)
   - $p_{foton} = \dfrac{h}{lambda}$
   - $\Delta p = p_{foton}$
-- Doppler limit (bevægelsesmængden af fotonen er begrænsningen)
 - Sammenhæng mellem temperatur og hastighed
   - $E_{kin} = \dfrac{3}{2} \cdot k_B \cdot T$
 - Dopplereffekten (for lyd, og måske også lys)
-- Zeeman effekten
 - Maxwell-Boltzmann fordelingen
   - $f(v)=4\pi v^2 \cdot \dfrac{m}{2\pi \cdot k_B \cdot T}^\dfrac{3}{2} \cdot e  ^\dfrac{-m v^2}{2 k_B T}$
-- Den naturlige linjebredde
+- Zeeman effekten
+- Formel fra Carsten
+- Doppler limit (bevægelsesmængden af fotonen er begrænsningen)
 
 ## Ting til min diskussion:
 
